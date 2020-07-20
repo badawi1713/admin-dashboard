@@ -1,0 +1,1 @@
+{"version":3,"sources":["ISP.css"],"names":[],"mappings":"AAAA,SACE,cACF,CAEA,eACE,aACF,CAEA,cACE,YAAa,CACb,kBAEF","file":"11.718be0c9.chunk.css","sourcesContent":[".map-url {\r\n  cursor: pointer;\r\n}\r\n\r\n.map-url:hover {\r\n  color: #1B8EB7\r\n}\r\n\r\n.loading-info {\r\n  display: flex;\r\n  align-items: center;\r\n\r\n}\r\n"]}

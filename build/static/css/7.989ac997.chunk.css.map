@@ -1,0 +1,1 @@
+{"version":3,"sources":["Customer.css"],"names":[],"mappings":"AAAA,SACE,cACF,CAEA,eACE,aACF","file":"7.989ac997.chunk.css","sourcesContent":[".map-url {\r\n  cursor: pointer;\r\n}\r\n\r\n.map-url:hover {\r\n  color: #1B8EB7\r\n}\r\n"]}

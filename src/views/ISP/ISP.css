@@ -1,0 +1,13 @@
+.map-url {
+  cursor: pointer;
+}
+
+.map-url:hover {
+  color: #1B8EB7
+}
+
+.loading-info {
+  display: flex;
+  align-items: center;
+
+}
